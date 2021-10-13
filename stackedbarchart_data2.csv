@@ -1,4 +1,4 @@
-Suburb,Type,Price,Date,Distance,Bedroom,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Propertycount,Buildingage,Pricepermeterland,Pricepermeterbuilding,Priceperbedroom,Priceperdistance,Priceperage,Uppercase,,Ageabove20,,#REF!
+Suburb,Type,Price,Date,Distance,Bedroom,Bathroom,Car,Landsize,BuildingArea,YearBuilt,CouncilArea,Lattitude,Longtitude,Propertycount,Buildingage2,Pricepermeterland,Pricepermeterbuilding,Priceperbedroom,Priceperdistance,Priceperage,Uppercase,,Buildingage,,#REF!
 Sunshine,h,975000,9/12/2017,10.5,2,1,1,211,102,2002,Glen Eira City Council,-37.8856,145.0599,7822,19,3874.407583,8014.705882,408750,71710.52632,51315.78947,SUNSHINE,,19,,
 Sunshine North,h,705000,9/12/2017,10.5,3,2,1,233,194,2002,Hobsons Bay City Council,-37.8573,144.8911,6380,19,4012.875536,4819.587629,311666.6667,116875,37105.26316,SUNSHINE NORTH,,19,,
 Sunshine North,h,722000,9/12/2017,10.5,2,1,1,0,80,2002,Melbourne City Council,-37.7899,144.9231,5263,19, ,4937.5,197500,94047.61905,38000,SUNSHINE NORTH,,19,,
