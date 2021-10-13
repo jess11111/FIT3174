@@ -1,4 +1,4 @@
-Suburb,Type,Price,Buildingage,Pricepermeterland,Pricepermeterbuilding,Priceperbedroom,Priceperdistance,Priceperage,Price/km
+Suburb,Type,Price,Buildingage,Pricepermeterland,Pricepermeterbuilding,Priceperbedroom,Priceperdistance,Priceperage,Priceperkm
 Abbotsford,h,1035000,825,1487,10256.41026,400000,84507.04225,1254.545455,85
 Bentleigh,h,1222500,191,296,7008.196721,427500,534375,6400.52356,534
 Burwood,h,1755000,171,20000,11111.11111,533333.3333,615384.6154,10263.15789,615
